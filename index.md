@@ -6,13 +6,13 @@ layout: page
 
 <img src="https://lanchengthu.github.io/lancheng.jpg" class="floatpic" width="360" height="480">
 
-I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I received my Ph.D. from Department of Computer Technology and Science, Tsinghua University in 2024, advised by Professor Dan Li. I received my B.E. degree from Beijing Institute of Technology. In addition to academic research, I am also active in IETF.
+I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I received my Ph.D. from Department of Computer Technology and Science, Tsinghua University in 2024, advised by Professor Dan Li. In addition to academic research, I am also active in IETF.
 
 ## Academic Background
 
-- **Sep 2024 - Now:** Beijing Zhongguancun Laboratory
-- **Sep 2019 - June 2024:** Tsinghua University
-- **Sep 2015 - June 2019:** Beijing Institute of Technology
+- **Jul 2024 - Now:** Beijing Zhongguancun Laboratory *Assistant Researcher*
+- **Sep 2019 - Jun 2024:** Tsinghua University *Ph.D Student*
+- **Sep 2015 - Jun 2019:** Beijing Institute of Technology *Undergraduate Student*
 
 ---
 
