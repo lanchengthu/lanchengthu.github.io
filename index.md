@@ -10,9 +10,9 @@ I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I rec
 
 ## Academic Background
 
-- **Jul 2024 - Now:** Beijing Zhongguancun Laboratory *Assistant Researcher*
-- **Sep 2019 - Jun 2024:** Tsinghua University *Ph.D Student*
-- **Sep 2015 - Jun 2019:** Beijing Institute of Technology *Undergraduate Student*
+- **Jul 2024 - Now:** *Assistant Researcher* in Beijing Zhongguancun Laboratory
+- **Sep 2019 - Jun 2024:** *Ph.D Student* in Tsinghua University
+- **Sep 2015 - Jun 2019:** *Undergraduate Student* Beijing Institute of Technology
 
 ---
 
