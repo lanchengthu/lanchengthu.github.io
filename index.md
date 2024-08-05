@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://lanchengthu.github.io/lancheng.jpg" class="floatpic" width="360" height="480">
 
-I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I received my Ph.D. from Department of Computer Technology and Science, Tsinghua University in 2024, advised by Professor Dan Li. In addition to academic research, I am also active in IETF. My email address is qinlc@mail.zgclab.edu.cn
+I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I received my Ph.D. from Department of Computer Technology and Science, Tsinghua University in 2024, advised by Professor Dan Li. In addition to academic research, I am also active in [IETF](https://datatracker.ietf.org/person/qlc19@mails.tsinghua.edu.cn). My email address is qinlc@mail.zgclab.edu.cn
 
 ## Academic Background
 
