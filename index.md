@@ -24,7 +24,7 @@ I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I rec
 
 ---
 
-## Professional Experiences
+## Professional Experiences (Program Committee)
 
 - [ACM IMC 2025](https://imc25stpc.hotcrp.com/u/1/users/pc) Shadow TPC
 
