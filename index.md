@@ -32,6 +32,7 @@ I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I rec
 
 ## Publications
 
+- Weiqiang Cheng, Shengnan Yue, **Lancheng Qin**, Han Li. 3L-SAV: A Three-Layer Intra-Domain Source Address Validation Framework for Hierarchical Operator Networks. In [<span style="color:blue;">APNOMS 2025</span>](https://sites.google.com/view/apnoms2025/program/poster-sessions#h.613h2zvahbi4).
 - **Lancheng Qin**, Li Chen, Dan Li, Honglin Ye, Yutian Wang. Understanding Route Origin Validation (ROV) Deployment in the Real World and Why MANRS Action 1 Is Not Followed. In [<span style="color:blue;">ISOC NDSS 2024</span>](https://www.ndss-symposium.org/ndss-paper/understanding-route-origin-validation-rov-deployment-in-the-real-world-and-why-manrs-action-1-is-not-followed/).
 - **Lancheng Qin**, Libin Liu, Li Chen, Dan Li, Yuqian Shi, Hongbing Yang. UniSAV: A Unified Framework for Internet-Scale Source Address Validation. In [<span style="color:blue;">IRTF ANRW 2024</span>](https://dl.acm.org/doi/10.1145/3673422.3674888).
 - **Lancheng Qin**, Dan Li, Ruifeng Li, Kang Wang. Themis: Accelerating the Detection of Route Origin Hijacking by Distinguishing Legitimate and Illegitimate MOAS. In [<span style="color:blue;">USENIX Security 2022</span>](https://www.usenix.org/conference/usenixsecurity22/presentation/qin).
@@ -44,6 +45,7 @@ I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I rec
 
 ## News and Updates
 
+- **Sep 2025:** Our work *3L-SAV: A Three-Layer Intra-Domain Source Address Validation Framework for Hierarchical Operator Networks* has been accepted to [<span style="color:blue;">APNOMS 2025</span>](https://sites.google.com/view/apnoms2025/program/poster-sessions#h.613h2zvahbi4).
 - **Nov 2024:** Our work *Inter-domain Source Address Validation (SAVNET) Architecture* has been adopted in [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-inter-domain-architecture/).
 - **Jul 2024:** Our work *UniSAV: A Unified Framework for Internet-Scale Source Address Validation* has been accepted to [<span style="color:blue;">IRTF ANRW 2024</span>](https://dl.acm.org/doi/10.1145/3673422.3674888).
 - **Jun 2024:** I was awarded the Excellent PhD graduate of Beijing.
@@ -57,4 +59,5 @@ I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I rec
 - **Jun 2022:** We formed [<span style="color:blue;">SAVNET WG</span>](https://datatracker.ietf.org/wg/savnet/about/) in IETF Routing Area.
 - **Jul 2020:** My first IETF meeting.
 - **Jun 2019:** I received my bachelor degree from School of Automation, Beijing Institute of Technology.
+
 
