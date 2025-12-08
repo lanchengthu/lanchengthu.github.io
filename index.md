@@ -32,6 +32,8 @@ I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I rec
 
 ## Publications
 
+- Siyuan Teng, **Lancheng Qin**, Li Chen, Dan Li, Ruifeng Li, Jianping Wu. Accurate and Stable AS Relationship Inference via Trusted Seeds and Semi-Supervised Learning. In INFOCOM 2026.
+- Shuai Wang, Ruifeng Li, Li Chen, Dan Li, **Lancheng Qin**, Qian Cao. OSAVRoute: Advancing Outbound Source Address Validation Deployment Detection with Non-Cooperative Measurement. In NDSS 2026.
 - Weiqiang Cheng, Shengnan Yue, **Lancheng Qin**, Han Li. 3L-SAV: A Three-Layer Intra-Domain Source Address Validation Framework for Hierarchical Operator Networks. In [<span style="color:blue;">APNOMS 2025</span>](https://sites.google.com/view/apnoms2025/program/poster-sessions#h.613h2zvahbi4).
 - **Lancheng Qin**, Li Chen, Dan Li, Honglin Ye, Yutian Wang. Understanding Route Origin Validation (ROV) Deployment in the Real World and Why MANRS Action 1 Is Not Followed. In [<span style="color:blue;">ISOC NDSS 2024</span>](https://www.ndss-symposium.org/ndss-paper/understanding-route-origin-validation-rov-deployment-in-the-real-world-and-why-manrs-action-1-is-not-followed/).
 - **Lancheng Qin**, Libin Liu, Li Chen, Dan Li, Yuqian Shi, Hongbing Yang. UniSAV: A Unified Framework for Internet-Scale Source Address Validation. In [<span style="color:blue;">IRTF ANRW 2024</span>](https://dl.acm.org/doi/10.1145/3673422.3674888).
@@ -45,6 +47,8 @@ I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I rec
 
 ## News and Updates
 
+- **May 2026:** Our work *Accurate and Stable AS Relationship Inference via Trusted Seeds and Semi-Supervised Learning* has been accepted to INFOCOM 2026. See you in Tokyo!
+- **Feb 2026:** Our work *OSAVRoute: Advancing Outbound Source Address Validation Deployment Detection with Non-Cooperative Measurement* has been accepted to NDSS 2026.
 - **Sep 2025:** Our work *3L-SAV: A Three-Layer Intra-Domain Source Address Validation Framework for Hierarchical Operator Networks* has been accepted to [<span style="color:blue;">APNOMS 2025</span>](https://sites.google.com/view/apnoms2025/program/poster-sessions#h.613h2zvahbi4).
 - **Nov 2024:** Our work *Inter-domain Source Address Validation (SAVNET) Architecture* has been adopted in [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-inter-domain-architecture/).
 - **Jul 2024:** Our work *UniSAV: A Unified Framework for Internet-Scale Source Address Validation* has been accepted to [<span style="color:blue;">IRTF ANRW 2024</span>](https://dl.acm.org/doi/10.1145/3673422.3674888).
@@ -59,5 +63,6 @@ I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I rec
 - **Jun 2022:** We formed [<span style="color:blue;">SAVNET WG</span>](https://datatracker.ietf.org/wg/savnet/about/) in IETF Routing Area.
 - **Jul 2020:** My first IETF meeting.
 - **Jun 2019:** I received my bachelor degree from School of Automation, Beijing Institute of Technology.
+
 
 
