@@ -42,11 +42,11 @@ I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I rec
 
 ## IETF WG Documents
 
+- Dan Li, **Lancheng Qin**, Libin Liu, Mingqing Huang, Kotikalapudi Sriram. Source Address Validation in Inter-domain Networks Gap Analysis, Problem Statement, and Requirements. in [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-inter-domain-problem-statement/)
 - Dan Li, Jianping Wu, **Lancheng Qin**, Mingqing Huang, Nan Geng. Source Address Validation in Intra-domain Networks Gap Analysis, Problem Statement, and Requirements. In [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-intra-domain-problem-statement/).
 - Dan Li, Jianping Wu, **Lancheng Qin**, Nan Geng, Li Chen. Intra-domain Source Address Validation (SAVNET) Architecture. In [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-intra-domain-architecture/).
-- Dan Li, Li Chen, Nan Geng, Libin Liu, **Lancheng Qin**.  Inter-domain Source Address Validation (SAVNET) Architecture. In [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-inter-domain-architecture/).
-- Dan Li, **Lancheng Qin**, Libin Liu, Mingqing Huang, Kotikalapudi Sriram. Source Address Validation in Inter-domain Networks Gap Analysis, Problem Statement, and Requirements. in [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-inter-domain-problem-statement/)
 -  Li Chen, Dan Li, Libin Liu, **Lancheng Qin**. Benchmarking Methodology for Intra-domain and Inter-domain Source Address Validation. In [<span style="color:blue;">IETF BMWG</span>](https://datatracker.ietf.org/doc/draft-ietf-bmwg-savnet-sav-benchmarking/).
+-  Dan Li, Li Chen, Nan Geng, Libin Liu, **Lancheng Qin**.  Inter-domain Source Address Validation (SAVNET) Architecture. In [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-inter-domain-architecture/).
 
 ---
 
@@ -54,7 +54,7 @@ I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I rec
 
 - **May 2026:** Our work *Accurate and Stable AS Relationship Inference via Trusted Seeds and Semi-Supervised Learning* has been accepted to INFOCOM 2026. See you in Tokyo!
 - **Feb 2026:** Our work *Benchmarking Methodology for Intra-domain and Inter-domain Source Address Validation* has been adopted in [<span style="color:blue;">IETF BMWG</span>](https://datatracker.ietf.org/doc/draft-ietf-bmwg-savnet-sav-benchmarking/).
-- **Feb 2026:** Our work *OSAVRoute: Advancing Outbound Source Address Validation Deployment Detection with Non-Cooperative Measurement* has been accepted to [<span style="color:blue;">NDSS 2026</span>](https://www.ndss-symposium.org/ndss-paper/osavroute-advancing-outbound-source-address-validation-deployment-detection-with-non-cooperative-measurement/)..
+- **Feb 2026:** Our work *OSAVRoute: Advancing Outbound Source Address Validation Deployment Detection with Non-Cooperative Measurement* has been accepted to [<span style="color:blue;">NDSS 2026</span>](https://www.ndss-symposium.org/ndss-paper/osavroute-advancing-outbound-source-address-validation-deployment-detection-with-non-cooperative-measurement/).
 - **Sep 2025:** Our work *3L-SAV: A Three-Layer Intra-Domain Source Address Validation Framework for Hierarchical Operator Networks* has been accepted to [<span style="color:blue;">APNOMS 2025</span>](https://sites.google.com/view/apnoms2025/program/poster-sessions#h.613h2zvahbi4).
 - **Nov 2024:** Our work *Inter-domain Source Address Validation (SAVNET) Architecture* has been adopted in [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-inter-domain-architecture/).
 - **Jul 2024:** Our work *UniSAV: A Unified Framework for Internet-Scale Source Address Validation* has been accepted to [<span style="color:blue;">IRTF ANRW 2024</span>](https://dl.acm.org/doi/10.1145/3673422.3674888).
