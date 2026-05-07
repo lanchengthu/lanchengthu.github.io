@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://lanchengthu.github.io/lancheng.jpg" class="floatpic" width="360" height="480">
 
-I am currently an Assistant Researcher in Beijing Zhongguancun Laboratory. I received my Ph.D. from Department of Computer Technology and Science, Tsinghua University in 2024, advised by Professor Dan Li. In addition to academic research, I have been participanting in [<span style="color:blue;">IETF</span>](https://datatracker.ietf.org/person/qlc19@mails.tsinghua.edu.cn) since 2020. My email address is qinlc@mail.zgclab.edu.cn
+Lancheng Qin is currently an Assistant Researcher at Beijing Zhongguancun Laboratory. His research interests include routing security, source address validation, and network measurement. He has been participating in IETF since 2020 and currently serves as the Secretary of the IETF GROW Working Group. His research has been published in venues including NDSS, USENIX Security, and INFOCOM. He is also an author of multiple IETF WG documents. He has served as a TPC member for ACM CCS and APNIC conference, and as an STPC member for IMC 2025 and IMC 2026. His personal homepage is https://lanchengthu.github.io/. My email address is qinlc@mail.zgclab.edu.cn
 
 ## Academic Background
 
