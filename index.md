@@ -31,6 +31,7 @@ His personal homepage is https://lanchengthu.github.io/. His email contact is qi
 ## Professional Experiences
 
 - [<span style="color:blue;">IETF GROW WG</span>](https://datatracker.ietf.org/wg/grow/about/) WG Secretary
+- [<span style="color:blue;">USENIX Security 2027</span>](https://www.usenix.org/conference/usenixsecurity27) TPC
 - [<span style="color:blue;">ACM CCS 2026</span>](https://www.sigsac.org/ccs/CCS2026/organization/prog-committee.html) TPC
 - [<span style="color:blue;">APNIC 62</span>](https://conference.apnic.net/62/program/committee/index.html) TPC
 - [<span style="color:blue;">ACM IMC 2026</span>](https://imc26stpc.hotcrp.com/u/1/users/pc) STPC
