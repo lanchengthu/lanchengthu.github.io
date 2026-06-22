@@ -8,7 +8,7 @@ layout: page
 
 Lancheng Qin is currently an Assistant Researcher at Zhongguancun Laboratory. His research interests include routing security, source address validation, and network measurement. 
 
-He has been participating in IETF since 2020 and currently serves as the Secretary of the IETF GROW Working Group. His research has been published in venues including NDSS, USENIX Security, and INFOCOM. He is also an author of multiple IETF WG documents. He has served as a TPC member for ACM CCS and APNIC conference, and as an STPC member for IMC 2025 and IMC 2026. 
+He has been participating in IETF since 2020 and currently serves as the Secretary of the IETF GROW Working Group. His research has been published in venues including NDSS, USENIX Security, and INFOCOM. He is also an author of multiple IETF WG documents. He has served as a TPC member for USENIX Security, ACM CCS, and APNIC conference. 
 
 His personal homepage is https://lanchengthu.github.io/. His email contact is qinlc@mail.zgclab.edu.cn
 
