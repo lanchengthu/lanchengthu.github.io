@@ -62,7 +62,8 @@ His personal homepage is https://lanchengthu.github.io/. His email contact is qi
 
 ## News and Updates
 
-- **May 2026:** Our work *Accurate and Stable AS Relationship Inference via Trusted Seeds and Semi-Supervised Learning* has been accepted to [<span style="color:blue;">IEEE INFOCOM 2026</span>](https://infocom2026.ieee-infocom.org/accepted-paper-list-main-conference). See you in Tokyo!
+- **June 2026:** Our work [<span style="color:blue;">*Source Address Validation in Intra-domain Networks Gap Analysis, Problem Statement, and Requirements*</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-intra-domain-problem-statement/) has been approved for publication as an RFC! 
+- **May 2026:** Our work *Accurate and Stable AS Relationship Inference via Trusted Seeds and Semi-Supervised Learning* has been accepted to [<span style="color:blue;">IEEE INFOCOM 2026</span>](https://infocom2026.ieee-infocom.org/accepted-paper-list-main-conference).
 - **Feb 2026:** Our work *Benchmarking Methodology for Intra-domain and Inter-domain Source Address Validation* has been adopted in [<span style="color:blue;">IETF BMWG</span>](https://datatracker.ietf.org/doc/draft-ietf-bmwg-savnet-sav-benchmarking/).
 - **Feb 2026:** Our work *OSAVRoute: Advancing Outbound Source Address Validation Deployment Detection with Non-Cooperative Measurement* has been accepted to [<span style="color:blue;">ISOC NDSS 2026</span>](https://www.ndss-symposium.org/ndss-paper/osavroute-advancing-outbound-source-address-validation-deployment-detection-with-non-cooperative-measurement/).
 - **Sep 2025:** Our work *3L-SAV: A Three-Layer Intra-Domain Source Address Validation Framework for Hierarchical Operator Networks* has been accepted to [<span style="color:blue;">APNOMS 2025</span>](https://sites.google.com/view/apnoms2025/program/poster-sessions#h.613h2zvahbi4).
