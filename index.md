@@ -10,7 +10,9 @@ Lancheng Qin is currently an Assistant Researcher at Zhongguancun Laboratory. Hi
 
 He has been participating in IETF since 2020 and currently serves as the Secretary of the IETF GROW Working Group. His research has been published in venues including ISOC NDSS, USENIX Security, and IEEE INFOCOM. He is also an author of multiple IETF WG documents. He has served as a TPC member for USENIX Security, ACM CCS, and APNIC conference. 
 
-His personal homepage is https://lanchengthu.github.io/. His email contact is qinlc@mail.zgclab.edu.cn
+Personal homepage: https://lanchengthu.github.io/ 
+Email contact: qinlc@mail.zgclab.edu.cn
+LinkedIn: www.linkedin.com/in/lancheng-qin-zgclab
 
 ## Academic Background
 
@@ -52,8 +54,9 @@ His personal homepage is https://lanchengthu.github.io/. His email contact is qi
 - **Lancheng Qin**, Dan Li, Jianping Wu, Mingqing Huang, Nan Geng. Problem Statement, Gap Analysis, and Requirements for Intra-domain Source Address Validation. In [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-intra-domain-problem-statement/).
 - Dan Li, **Lancheng Qin**, Libin Liu, Mingqing Huang, Kotikalapudi Sriram. Problem Statement, Gap Analysis, and Requirements for Inter-domain Source Address Validation. in [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-inter-domain-problem-statement/)
 - Dan Li, Jianping Wu, **Lancheng Qin**, Nan Geng, Li Chen. Intra-domain Source Address Validation (SAVNET) Architecture. In [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-intra-domain-architecture/).
--  Li Chen, Dan Li, Libin Liu, **Lancheng Qin**. Benchmarking Methodology for Intra-domain and Inter-domain Source Address Validation. In [<span style="color:blue;">IETF BMWG</span>](https://datatracker.ietf.org/doc/draft-ietf-bmwg-savnet-sav-benchmarking/).
--  Dan Li, Li Chen, Nan Geng, Libin Liu, **Lancheng Qin**.  Inter-domain Source Address Validation (SAVNET) Architecture. In [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-inter-domain-architecture/).
+- Job Snijders, Theo Buehler, **Lancheng Qin**. Constraining RPKI Trust Anchors. In [<span style="color:blue;">IETF SIDROPS WG</span>](https://datatracker.ietf.org/doc/draft-ietf-sidrops-constraining-rpki-trust-anchors/).
+- Li Chen, Dan Li, Libin Liu, **Lancheng Qin**. Benchmarking Methodology for Intra-domain and Inter-domain Source Address Validation. In [<span style="color:blue;">IETF BMWG</span>](https://datatracker.ietf.org/doc/draft-ietf-bmwg-savnet-sav-benchmarking/).
+- Dan Li, Li Chen, Nan Geng, Libin Liu, **Lancheng Qin**.  Inter-domain Source Address Validation (SAVNET) Architecture. In [<span style="color:blue;">IETF SAVNET WG</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-inter-domain-architecture/).
 
 ## Implementations
 - RPKI Relying Party Implementation [<span style="color:blue;">panda-rpki</span>](https://panda-rpki.cn).
@@ -62,6 +65,7 @@ His personal homepage is https://lanchengthu.github.io/. His email contact is qi
 
 ## News and Updates
 
+- **Sep 2026:** Our RPKI Relying Party Implementation [<span style="color:blue;">*panda-rpki*</span>](https://panda-rpki.cn) is about to be open-sourced!!
 - **June 2026:** Our work [<span style="color:blue;">*Source Address Validation in Intra-domain Networks Gap Analysis, Problem Statement, and Requirements*</span>](https://datatracker.ietf.org/doc/draft-ietf-savnet-intra-domain-problem-statement/) has been approved for publication as an RFC! 
 - **May 2026:** Our work *Accurate and Stable AS Relationship Inference via Trusted Seeds and Semi-Supervised Learning* has been accepted to [<span style="color:blue;">IEEE INFOCOM 2026</span>](https://infocom2026.ieee-infocom.org/accepted-paper-list-main-conference).
 - **Feb 2026:** Our work *Benchmarking Methodology for Intra-domain and Inter-domain Source Address Validation* has been adopted in [<span style="color:blue;">IETF BMWG</span>](https://datatracker.ietf.org/doc/draft-ietf-bmwg-savnet-sav-benchmarking/).
